@@ -1,1 +1,3 @@
-export default function Page() { return <main>Coming soon</main>; }
+export default function Page() {
+  return <main>Coming soon</main>;
+}
